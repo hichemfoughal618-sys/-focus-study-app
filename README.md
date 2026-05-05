@@ -1,28 +1,35 @@
 #  Focus Study App
 
-A productivity application designed to help students stay focused and reduce distractions during study sessions.
+A full-stack productivity web application designed to help students improve focus, track study time, and stay motivated through gamification.
 
 ##  Features
 
-*  Pomodoro Timer (25 min study / 5 min break)
-*  Reward system (earn points after each session)
-*  Improves concentration and discipline
-*  Simple and clean interface
+*  Pomodoro Timer (study & break sessions)
+*  User Authentication (Login & Register)
+*  Study Time Tracking with Database
+*  Leaderboard (competitive ranking)
+*  Friends System
+*  Study Challenges System
 
 ##  Technologies
 
-* Python
-* Tkinter
+* Python (Flask)
+* SQLite
+* HTML / CSS / JavaScript
 
 ##  Screenshots
 
-(Add your app screenshots here)
+(Add your screenshots here)
+
+##  Project Goal
+
+This project aims to reduce distractions and improve student productivity using structured study sessions and gamified motivation systems.
 
 ##  Future Improvements
 
-* User accounts
-* Progress tracking dashboard
-* Website/app blocking system
+* Real-time multiplayer challenges
+* Mobile version
+* Advanced analytics dashboard
 
 ##  Author
 
